@@ -45,14 +45,16 @@
 ## Linked List의 장단점
 
 - **장점**
-- 구현 쉬움
-- 데이터의 추가, 삽입, 삭제가 쉬움
-- 크기가 가변적임
-- 포인터 정보로 추가적인 연산 없이 다음 노드 가져올 수 있음
+
+  - 구현 쉬움
+  - 데이터의 추가, 삽입, 삭제가 쉬움
+  - 크기가 가변적임
+  - 포인터 정보로 추가적인 연산 없이 다음 노드 가져올 수 있음
 
 - **단점**
-- 포인터를 위한 메모리 필요
-- 특정 위치 노드 탐색하는데 많은 연산 필요
+
+  - 포인터를 위한 메모리 필요
+  - 특정 위치 노드 탐색하는데 많은 연산 필요
 
 ## Singly Linked List
 
@@ -67,8 +69,8 @@
 ## Circular Linked List
 
 - head와 tail을 서로 연결시킨 구조이다.
-  <img src="https://media.geeksforgeeks.org/wp-content/uploads/CircularLinkeList.png">
-  <img src="https://velog.velcdn.com/images%2Fwoojinn8%2Fpost%2Fa80262a6-5c75-423c-9914-4626ebf3eccf%2Fcircular.PNG">
+  - <img src="https://media.geeksforgeeks.org/wp-content/uploads/CircularLinkeList.png">
+  - <img src="https://velog.velcdn.com/images%2Fwoojinn8%2Fpost%2Fa80262a6-5c75-423c-9914-4626ebf3eccf%2Fcircular.PNG">
 
 ### 참고 자료
 
