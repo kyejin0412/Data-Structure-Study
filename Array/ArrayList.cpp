@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int listSize = 10;
+int listSize = 11;
 
 void clear() {
     listSize = 0;
@@ -31,7 +31,7 @@ void remove(int pos, int data[]) {
 }
 
 int main() {
-    int data[listSize] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+    int data[11] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
     update(0, 11, data);
     cout << "after update(): ";
